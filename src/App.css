@@ -1,0 +1,68 @@
+
+#title{
+  background-color:#066163;
+  color: #fff;
+}
+.container-fluid{
+  padding: 1% 15% ;
+}
+.fi{
+  color: #fff;
+  padding-bottom: 50px;
+  background-color:#066163;
+}
+.fi p {
+  padding-left: 40%;  
+}
+h1{
+  padding-top:70px;
+  padding-left: 40%;
+}
+.fi img {
+  margin-left: 18%;
+}
+.fi1 {
+  padding: 60px 50px;
+ text-align: center; 
+}
+.fi2 {
+  padding: 30px 30px;
+  background-color: burlywood;
+  text-align: center;
+}
+hr{
+  border-style:none;
+  border-top-style:dashed;
+  border-color: grey;
+  border-width: 5px;
+  width: 5%
+}
+h1{
+  color: #3EDBF0;
+}
+h3{
+  color: #3EDBF0;
+}
+#testimonials{
+  padding: 7% 15%;
+  text-align: center;
+  background-color: #066163;
+  color: #fff;
+}
+.project {
+  text-align: center;
+  padding: 50px 30px;
+}
+.testimonial-image {
+  width: 20%;
+ border-radius:80%;
+ margin:20px;
+}
+#footer {
+  padding: 3% 5%;
+  text-align: center;
+  }
+  .social-media {
+    margin: 20px 20px;
+    cursor: pointer;
+  }
